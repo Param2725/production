@@ -1,0 +1,22 @@
+{
+  "name": "chai_deploy",
+  "version": "1.0.0",
+  "description": "production",
+  "keywords": [
+    "chai",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "param",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "env": "^0.0.2",
+    "express": "^5.1.0"
+  }
+}
