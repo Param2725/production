@@ -1,0 +1,19 @@
+{
+  "name": "production",
+  "version": "1.0.0",
+  "description": "this is a testing server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "param",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  }
+}
